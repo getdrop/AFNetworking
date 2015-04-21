@@ -30,6 +30,7 @@
     #import "AFURLResponseSerialization.h"
     #import "AFSecurityPolicy.h"
     #import "AFNetworkReachabilityManager.h"
+    #import "AFNetworkActivityIndicatorManager.h"
 
     #import "AFURLConnectionOperation.h"
     #import "AFHTTPRequestOperation.h"
